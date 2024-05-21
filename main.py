@@ -1,0 +1,1 @@
+print('game is starting')
